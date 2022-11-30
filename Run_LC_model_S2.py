@@ -1,15 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 Created on Fri Sep 30 10:46:53 2022
-
+Code to run model with hyperparameter optimisation and samples controlled for spatial autocorrelation
 @author: isabe
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Wed May  4 17:52:42 2022
-
-@author: Isabel Thomas isabel.thomas@unige.ch
 """
 ##import modules 
 import pandas as pd
